@@ -8,3 +8,5 @@
 /build
 /captures
 .externalNativeBuild
+/app/src/main/cpp/jiaozheng.cpp
+/app/src/main/cpp/jiaozheng.hpp
