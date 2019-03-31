@@ -1,11 +1,11 @@
-# ZxingQmx
+# 1.ZxingQmx
 java与C通用的扫码示例工程
-# 区别
+# 2.区别
 ```java
 decode(byte[] data,int w,int h);
 decodeByNative(byte[] data,int w,int h);
 ```
-# 编译
+# 3.编译
 去掉```jni```中报错的代码，直接编译即可，删除```ChangeBuffer```中的```changeImgBuffer```
 ```java
 public class ChangeBuffer {
